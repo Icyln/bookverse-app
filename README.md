@@ -14,8 +14,8 @@ Bookverse is a full-stack web application that allows users to explore books, se
 ## Tech Stack
 
 - **Frontend**: React, Tailwind CSS  
-- **Backend**: Node.js / Express (or your API)  
-- **Database**: MySQL / PostgreSQL (depending on your setup)  
+- **Backend**: Node.js / Express   
+- **Database**: MySQL 
 - **Authentication**: JWT tokens  
 
 ## How to Run Locally
